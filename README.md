@@ -112,7 +112,7 @@
 
 | Описание | Ссылка |
 |:---|:---|
-| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Скриншоты%201)|
+| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Скриншоты/Проект%201)|
 | Коды | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Код/Проект%201) |
 | Конфигурация | https://github.com/PavelDavlatov/1C_portfolio/tree/main/Конфигурации |
 ---
