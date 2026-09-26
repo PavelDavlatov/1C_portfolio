@@ -416,7 +416,6 @@
 
 | Описание | Ссылка |
 |:---|:---|
-| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Скриншоты/Проект%206)|
 | Коды | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Код/Проект%206) |
 | Конфигурация | https://github.com/PavelDavlatov/1C_portfolio/tree/main/Конфигурации |
 
