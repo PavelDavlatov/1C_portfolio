@@ -112,7 +112,7 @@
 
 | Описание | Ссылка |
 |:---|:---|
-| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/%201)|
+| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Код/Проект%201)|
 | Коды | Заявка на тур, Бронирование тура |
 | Конфигурация | Продажи, Взаиморасчёты, Отпуска |
 ---
