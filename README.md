@@ -112,9 +112,9 @@
 
 | Описание | Ссылка |
 |:---|:---|
-| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Код/Проект%201)|
-| Коды | Заявка на тур, Бронирование тура |
-| Конфигурация | Продажи, Взаиморасчёты, Отпуска |
+| Скриншоты | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Скриншоты%201)|
+| Коды | (https://github.com/PavelDavlatov/1C_portfolio/tree/main/Код/Проект%201) |
+| Конфигурация | https://github.com/PavelDavlatov/1C_portfolio/tree/main/Конфигурации |
 ---
 
 ## Проект 2. «Комплексная автоматизация управления ИТ-фирмой»
